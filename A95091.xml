@@ -1,0 +1,805 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods covenant the churches plea: or A sermon preached before the Honorable House of Commons at a late solemn fast, in Margarets Church at Westminster, Octob. 29. 1645. By Francis Taylor B. in D. pastour of Yalding in Kent, and a member of the Assembly of Divines.</title>
+            <author>Taylor, Francis, 1590-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95091</idno>
+            <idno type="STC">Wing T278</idno>
+            <idno type="STC">Thomason E307_20</idno>
+            <idno type="STC">ESTC R200348</idno>
+            <idno type="EEBO-CITATION">99861151</idno>
+            <idno type="PROQUEST">99861151</idno>
+            <idno type="VID">113279</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113279)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E307[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods covenant the churches plea: or A sermon preached before the Honorable House of Commons at a late solemn fast, in Margarets Church at Westminster, Octob. 29. 1645. By Francis Taylor B. in D. pastour of Yalding in Kent, and a member of the Assembly of Divines.</title>
+                  <author>Taylor, Francis, 1590-1656.</author>
+               </titleStmt>
+               <extent>[6], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Cotes for Stephen Bowtell, at the signe of the Bible in Popes-head-alley,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on verso of first leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms LXXIV, 20 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:113279:1"/>
+            <opener>
+               <date>Die Mercur. 29. Octob. 1645.</date>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Rdered by the Commons Aſſembled in Parliament, that Sir <hi>Walter Erle, Cap<g ref="char:EOLhyphen"/>tain Skinner,</hi> and <hi>Sir William Strick<g ref="char:EOLhyphen"/>land,</hi> doe from this Houſe give thanks to Mr. <hi>Taylor,</hi> and Mr. <hi>Strickland</hi> for the great pains they took in the Sermons they Preached this day at the intreaty of this Houſe at <hi>Margarets Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> (it being the day of publick humiliation) and to deſire them to Print their Sermons. And they are to have the like priviledge in Printing of them as others in the like kinde uſually have had.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="privilege">
+            <p>
+               <hi>I doe appoint Stephen Bowtell, and none other, to Print my Sermon.</hi>
+            </p>
+            <closer>
+               <signed>FRANCIS TAYLOR.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113279:2"/>
+            <pb facs="tcp:113279:2"/>
+            <head>TO The Honourable Houſe of COMMONS Aſſembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was a double priviledge that God be<g ref="char:EOLhyphen"/>ſtowed upon <hi>David,</hi> that hee ſhould fight the Lords battels, and make large prepa<g ref="char:EOLhyphen"/>rations for the Lords Temple. But the honour to injoy a peaceable Government, and to finiſh the Temple, God reſerved for <hi>Solomon</hi> his ſon. God hath honou<g ref="char:EOLhyphen"/>red you with <hi>Davids</hi> portion, Honourable Senatours, and worthy Patriots. Yee have fought the Lords battells with good ſucceſſe, and made great preparations for the building of Gods Temple. The Lord adde <hi>Solomons</hi> part un<g ref="char:EOLhyphen"/>to you, that yee may have the comfort to eſtabliſh a firm peace in the Civill State, and the honour to ſettle due order in the Lords Houſe. The forwardneſſe of the Work ſhould fill you with courage againſt all diſcouragements. The Talmudiſts have a Proverb,
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Jalkut. in Leg. fol. 279 col. 1.</note> 
+               <hi>When your ſhooes are on, tread down the Thorns.</hi> Go on with valour, I beſeech you, to pull down all im<g ref="char:EOLhyphen"/>pediments that hinder true Religion or a ſolid peace. To incou<g ref="char:EOLhyphen"/>rage your Honours to ſo great a Work, was the ſcope of theſe
+<pb facs="tcp:113279:3"/>Meditations; Which, as in the delivery they ſeemed not diſ<g ref="char:EOLhyphen"/>pleaſing to you, ſo under the ſhadow of your Order, they doe now preſent themſelves to the publick view.
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Taanith. fol. 4. col. 1.</note> The rain that fals ſoftly, ſay the Rabbins, moiſtens the Corn under the clods. Whereby they intimate unto us that good diſpoſitions are eaſily wrought upon by a modeſt and moderate way of teaching. I did indevour to avoid all things that might offend ſo great and grave an audience. Yet not to neglect the duty of a Miniſter, to ſpeak thoſe things that I conceived to bee moſt uſefull for you to hear, and moſt needfull for mee to deliver. If any good come by my paines to Gods Church, have a ſufficient reward. In the mean while, I humbly deſire, that the Preſſe may bee your remembrancer, and bring that often to your memories, which the Pulpit preſented to your eares. I ſhall no further make bold to interrupt your weighty indevours, but begging a ſingular bleſ<g ref="char:EOLhyphen"/>ſing from God upon your Perſons, and publick imployments, I conclude and remain</p>
+            <closer>
+               <signed>At your Honours ſervice in the Lord, FRANCIS TAYLOR.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113279:3"/>
+            <head>A Sermon Preached before the Honourable Houſe of Commons at a late Solemne Faſt.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 74.20.</hi>
+                  </bibl>
+                  <p>Have reſpect unto the Covenant: For the dark places of the Earth, are full of the habitations of cruelty.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Pſalme containes a ſad deſcription of the ſorrowfull times the Church of God indu<g ref="char:EOLhyphen"/>red, when by the cruelty of their adverſaries they were deprived of the liberty of Gods houſes, and of their own. The name of <hi>A<g ref="char:EOLhyphen"/>ſaph,</hi> in the beginning of it, puts the Com<g ref="char:EOLhyphen"/>menters to ſome trouble. For if it were that <hi>Aſaph,</hi> that lived in <hi>Davids</hi> time, it muſt needs bee a Propheticall prediction of the future troubles of the Church. For <hi>Davids</hi> glorious Reign afforded no occaſions of ſuch ſad com<g ref="char:EOLhyphen"/>plaints. It ſeemes rather to bee a ſenſible relation of preſent trou<g ref="char:EOLhyphen"/>bles, as many other Pſalmes are; As <hi>Pſal.</hi> 52. when <hi>Doeg</hi> com<g ref="char:EOLhyphen"/>plaines of <hi>David</hi> to <hi>Saul. Pſal.</hi> 54. when the <hi>Ziphims</hi> complain of him, <hi>Pſal.</hi> 56. when the <hi>Philiſtines</hi> took him in <hi>Gath, Pſal.</hi> 57. when hee was in the Cave, <hi>Pſal.</hi> 59. when they watched the houſe to kill him, <hi>Pſal.</hi> 137. when the people were captives in <hi>Babylon.</hi> If it bee
+<pb n="2" facs="tcp:113279:4"/>not a Propheſie, but a relation, then either it muſt bee compoſed by a later <hi>Aſaph,</hi> who was an eye-witneſſe of thoſe troubles; or elſe <hi>Aſaph</hi> is put for the ſons of <hi>Aſaph,</hi> to whoſe care the ſinging of this Pſalme was committed, as <hi>Aaron</hi> is put for the
+<note n="(a)" place="margin">1 Chron. 12.27. <hi>Heb. Aaron.</hi>
+               </note> 
+               <hi>Aaronites,</hi> and
+<note n="(b)" place="margin">1 King. 12.16.</note> 
+               <hi>David</hi> for <hi>Reboboam</hi> his grand-childe.</p>
+            <p>But another ſcruple yet remaines to unfold, what ſhould bee that troubleſome time, wherein this Pſalme was compoſed. Some take it to bee in the time of the Babylonian captivity. Others in the dayes of <hi>Antiochus Epiphanes.</hi> The former plead the burning of the Sanctuary, <hi>ver.</hi> 7. which was done at the taking of <hi>Jeruſalem</hi> by the <hi>Babylonians,</hi> whereas <hi>Antiochus</hi> onely defiled it by comman<g ref="char:EOLhyphen"/>ding it to bee called the
+<note n="(c)" place="margin">2 Mac. 6.2.</note> Temple of <hi>Jupiter Olympius,</hi> and by bring<g ref="char:EOLhyphen"/>ing his Image into it, as
+<note n="(d)" place="margin">Euſeb. Chronic. l. 2. Hieron. in Dan. 11.</note> 
+               <hi>Euſebius</hi> affirmes. The later plead the want of Prophets to foretell the end of their troubles, whereas in the Babylonian captivity <hi>Jeremie</hi> was alive, who told the Jews remaining in their own land, that the terme of their captivity ſhould bee
+<note n="(e)" place="margin">Jer. 25.11, 12. &amp; 29.20.</note> ſeventy yeers. This <hi>Daniel</hi> knew
+<note n="(f)" place="margin">Dan. 9.2.</note> by books left on Record. And other godly Jews knew the
+<note n="(g)" place="margin">Pſal. 102.13.</note> ſet time of their delivery. And <hi>Ezekiel</hi> foretels the
+<note n="(h)" place="margin">Ezek. 40.</note> rebuilding of the City and Temple. I will not take upon mee to determine ſo great a contro<g ref="char:EOLhyphen"/>verſie. But under correction of better judgements, I conceive it was writen in the time of <hi>Antiochus,</hi> and the burning of the Tem<g ref="char:EOLhyphen"/>ple formerly, recapitulated to aggravate their preſent ſorrows, who had their Temple ſo defiled now, that they could not with any comfort uſe it, and knew not when their miſeries would end, as the Jews did under the captivity.</p>
+            <p>The Pſalmiſt wreſtles with God in prayer, by many ſtrong argu<g ref="char:EOLhyphen"/>ments, for the freedome of Gods people from their heavy troubles. Hee tels of the cruelty of the adverſaries, not doubting but that God was ſo tenderly affected to his people, that hee would not ſuffer them to bee ruined by their foes. But if God ſhould ſo farre forget his people, as to ſlight their calamities, yet hee knew Gods glory was deare unto him, and therefore prayes to God to avenge on his peoples enemies, all the blaſphemies they daily uttered a<g ref="char:EOLhyphen"/>gainſt God himſelf. Hee mentions the miracles God had done for his people formerly, in opening a paſſage through the Sea to de<g ref="char:EOLhyphen"/>liver them fully from the <hi>Egyptians;</hi> and drowning thoſe cruell Dragons, <hi>Pharaohs</hi> Princes, and giving <hi>Pharaohs</hi> own carcaſſe, that
+<pb n="3" facs="tcp:113279:4"/>great Leviathan
+<note n="*" place="margin">
+                  <hi>Cadaver Pha<g ref="char:EOLhyphen"/>raonis e mari ejectum dediſti devorandum vo<g ref="char:EOLhyphen"/>lucribus &amp; feris deſerta incolen<g ref="char:EOLhyphen"/>tibut.</hi> Piſc. vide Ezek. 29.5. <hi>Sic Populi vox uſurpatur,</hi> Prov. 30.25, 26. <hi>&amp;</hi> Homero <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>dicta obſervat</hi> Euſtat. ad Il. Β &amp; Odyſ. Ε. <hi>Oppiano iti<g ref="char:EOLhyphen"/>dem,</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Piſces. Piſcat. l. 1. <hi>De apibus etiam,</hi> Columel. l. 9. c. 13. <hi>Populi duo conjungi debent.</hi>
+               </note> to the beaſts for food, and opening another in the River Jordan, to let them into the poſſeſſion of the Land of <hi>Canaan.</hi> And is Gods power or mercy ſhortned,
+<note n="(a)" place="margin">Iſa. 59.1.</note> that hee can<g ref="char:EOLhyphen"/>not or will not deliver his people now? Hee foretels the ſhame that would fall upon Gods people, if they ſhould bee diſappointed of their hope of delivery. Hee ſhews the cauſe of their troubles. Though their ſins gave God cauſe enough to afflict them more heavily, yet it was not that the enemies looked at, but their Religion. They could well have been content, Gods people ſhould have been ſin<g ref="char:EOLhyphen"/>ners, ſo they had not been Saints. And this makes him call upon God to ariſe, and plead his own cauſe. And in the Text hee urgeth God with the Covenant. A ſtrong argument. There was no power in the people to help themſelves. They had no merits for the Pſalmiſt to plead in their behalf. There was power and mercy ſuf<g ref="char:EOLhyphen"/>ficient in God for deliverance: but what right have they to it, who are not in league with him? Nothing can binde God, but his own Covenant. Hee might ſhew forth his mercy and power to reſcue o<g ref="char:EOLhyphen"/>thers, though theſe had periſhed. Hee could have made of <hi>Moſes</hi> a
+<note n="(b)" place="margin">Exod. 32.10.</note> great Nation, though all the other <hi>Iſraelites</hi> had been conſu<g ref="char:EOLhyphen"/>med in his anger. And thus much for coherence.</p>
+            <p>The Miniſters of God are
+<note n="(c)" place="margin">1 Cor. 3.10</note> Gods builders. They muſt lay a ſure foundation by a right explication of the words,
+<note n="*" place="margin">Fundamentum debile fallit opus</note> leſt all the building fall of it ſelf. They muſt raiſe up ſtrong walls, by obſer<g ref="char:EOLhyphen"/>vations naturally flowing from the Text, leſt the winds of falſe teachers blow it down. They muſt lay on a firm roofe by ſolid ap<g ref="char:EOLhyphen"/>plication, leſt the ſtormes of mens luſts ruine it. For the words,</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Have reſpect.</hi>
+            </q>
+            <p>The word in the originall ſignification of it, imports a faſtning of the eyes upon ſome object, that a man deſires to look into. Hence by a metaphor, it is transferred to the eyes of the minde, and ſignifies a ſerious weighing, and conſideration of a thing, God is ſaid to
+<note n="(d)" place="margin">Act. 17.30 <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Looking over.</note> wink at the times of ignorance, or not to regard it. Gods people here look at God, as if hee did wink at his Covenant, and neither look at it, nor them in their miſeries. The Pſalmiſt deſires him that hee would bee mindefull of it for his peoples de<g ref="char:EOLhyphen"/>liverance.</p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto the Covenant.</hi>
+            </q>
+            <p>The word is derived from <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to chuſe. The parties that enter
+<pb n="4" facs="tcp:113279:5"/>into Covenant chuſe one another, and chuſe their termes. So God chuſeth his people.
+<note n="(a)" place="margin">Pſal. 33.12</note> 
+               <hi>Bleſſed is the Nation whoſe God is the Lord, and the people whom hee hath choſen for his own inheritance.</hi> So hee chu<g ref="char:EOLhyphen"/>ſeth their ſeed after them, as <hi>Moſes</hi> teſtifyeth.
+<note n="(b)" place="margin">Deut. 4.37.</note> 
+               <hi>And becauſe hee loved thy Fathers, therefore hee choſe their ſeed after them.</hi> So Gods people chuſe God for their God, as <hi>Joſhuah</hi> affirmes.
+<note n="(c)" place="margin">Joſh. 24.22</note> 
+               <hi>And</hi> Jo<g ref="char:EOLhyphen"/>ſhuah <hi>ſaid unto the people, Yee are witneſſes against your ſelves, that yee have choſen the Lord to ſerve him. And they ſaid, We are witneſſes.</hi> The Rabbins obſerve the
+<note n="(d)" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ab. Ezr. Qimchi in textum.</hi>
+               </note> demonſtrative particle included in <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to point out a particular Covenant.
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Shel. Jar. in text.</hi>
+               </note> 
+               <hi>That famous covenant which thou madeſt with our Fathers.</hi> Some apply it to that eminent covenant made with <hi>Noah</hi>
+               <note n="(f)" place="margin">Gen. 6.11.</note> when the earth was filled with vio<g ref="char:EOLhyphen"/>lence as now, and the old world drowned for it. To wit,
+<note n="(g)" place="margin">Gen. 9.12.15.</note> that hee would no more drown the earth for mans ſin. This Covenant is alſo mentioned by the Prophet.
+<note n="(h)" place="margin">Iſa. 54.9.</note> 
+               <hi>For this is as the waters of</hi> Noah <hi>to mee: for as I have ſworn, that the waters of</hi> Noah <hi>ſhould no more goe over the earth; ſo have I ſworn, that I would not bee wroth with thee, nor rebuke thee.</hi> But the Covenant here intended is that ſolemn one made with <hi>Abraham,</hi>
+               <note n="(i)" place="margin">Gen. 17.7.</note> that hee would bee his God, and the God of his ſeed. Repeated by the Pſalmiſt,
+<note n="(k)" place="margin">Pſal. 105.9, 10.</note> 
+               <hi>Which covenant hee made with</hi> Abraham, <hi>and his oath unto</hi> Iſaac, <hi>and confirmed the ſame unto</hi> Jacob <hi>for a Law, and to</hi> Iſrael <hi>for an everlaſting cove<g ref="char:EOLhyphen"/>nant.</hi> Hereby the Pſalmiſt conceives that God was now ingaged to deliver his people.</p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>For.</hi>
+            </q>
+            <p>This includes a motive to move God to deliver his people out of their miſeries: So <hi>Joſeph</hi> uſeth it,
+<note n="(l)" place="margin">Gen. 42.18</note> 
+               <hi>This doe and live: for I feare God.</hi> Though yee may feare wrong in an idolatrous Country, yet I will doe you none, becauſe I am no Idolater, but feare the true God, as yee doe. So here, Doe thou, O Lord, help thy people for others hurt them.</p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>The dark places.</hi>
+            </q>
+            <p>An alluſion, as ſome interpreters conceive, to the dens of wilde beaſts, wherein
+<note n="(m)" place="margin">Pſal. 104.21, 22.</note> they hide themſelves to take advantage of ſeize upon a prey. To theſe cruell men are compared.
+<note n="(n)" place="margin">Pſal. 10.8, 9</note> 
+               <hi>Hee ſitteth in the lurking places of the villages: in the ſecret places doth hee mur<g ref="char:EOLhyphen"/>ther the innocent. Hee lyeth in waite ſecretly as a Lion in his den, hee lyeth in waite to catch the poore.</hi> Such places oppreſſors and robbers
+<pb n="5" facs="tcp:113279:5"/>chuſe. Such are our Forts held by Malignants, that live on ſpoile. Others take it for an alluſion to priſons and dark dungeons void of light. As the Prophet deſcribes a priſon.
+<note n="(a)" place="margin">Iſa. 42.7.</note> 
+               <hi>To bring the pri<g ref="char:EOLhyphen"/>ſoners from the priſon, and them that ſit in darkneſſe, out of the priſon<g ref="char:EOLhyphen"/>houſe.</hi> So trouble in Scripture is compared to darkneſſe, and pro<g ref="char:EOLhyphen"/>ſperity to light, becauſe darkneſſe is irkſome, and light comfor<g ref="char:EOLhyphen"/>table.
+<note n="(b)" place="margin">Iſa. 9.2.</note> 
+               <hi>The people that walked in darkneſſe, have ſeen a great light.</hi> And
+<note n="(c)" place="margin">Iſa. 50.10.</note> 
+               <hi>That walketh in darkneſſe, and hath no light.</hi> And then the ſorry hiding places, whither Gods people went to hide them<g ref="char:EOLhyphen"/>ſelves, are here meant. Yet could they not there bee quiet, but were purſued, found out, and ſpoyled by their adverſaries. O<g ref="char:EOLhyphen"/>thers take dark places for obſcure and mean places, as <hi>dark men,</hi> in the originall are called
+<note n="(d)" place="margin">Prov. 22.29.</note> 
+               <hi>mean men</hi> in your tranſlation. And then it may either ſignifie that the meaneſt men did oppreſſe Gods people: or, that the pooreſt and meaneſt of Gods people were not ſpared. Such uſage have wee found in our time, when poore cot<g ref="char:EOLhyphen"/>tages of our foes have ſent out pillagers, and no cottages of ours have eſcaped ſpoyling in divers places.</p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Of the earth.</hi>
+            </q>
+            <p>So the word is uſed, <hi>Gen.</hi> 1.1. <hi>In the beginning God created the Heaven, and the Earth.</hi> And thence comes our Engliſh word, <hi>Earth.</hi> But ſometimes it is tranſlated, <hi>The Land.</hi> As, <hi>Jer.</hi> 12.4. <hi>How long ſhall the Land mourn?</hi> And ſo it ſhould bee here. For doubtleſſe Gods people did not dwell all the earth over, to bee oppreſſed every where. But if the place bee interpreted of the <hi>Babylonian</hi> captivity, hereby is meant the Land of the <hi>Chaldeans;</hi> if of <hi>Antiochus</hi> his time, the Land of <hi>Canaan</hi> is intended.</p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Are full</hi>
+            </q>
+            <p>It notes out abundance. Many ſuch dens of robbers there were then, as now with us.</p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Of the habitations.</hi>
+            </q>
+            <p>In the primary ſignification it imports Shepherds tents, or cot<g ref="char:EOLhyphen"/>tages, for the land had great ſtore of ſheep. <hi>Joſephs</hi> brethren were
+<note n="(e)" place="margin">Gen. 47.3.</note> Shepherds. So was
+<note n="(f)" place="margin">Pſal. 78.70.</note> 
+               <hi>David,</hi> before hee was a King. And from thence it was taken for all manner of dwellings, as here it is; as the
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Skel. <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in text.</hi>
+               </note> Hebrew writers obſerve.</p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Of Cruelty.</hi>
+            </q>
+            <p>They did not uſe ſecret fraud onely, but open violence. The
+<pb n="6" facs="tcp:113279:6"/>fox is gone, the wolfe appeares. It is the cuſto me of the ene<g ref="char:EOLhyphen"/>mies of the Church, when they are weake, to uſe glorious preten<g ref="char:EOLhyphen"/>ces to cover their cruell intentions, and when they are growne ſtrong, to pull
+<note n="*" place="margin">
+                  <hi>De Juliano Theodoret. Eum prime</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Hiſtor. l.</hi> 3. <hi>cap.</hi> 15.</note> off the vizard, and fall to direct plundering.</p>
+            <p>The ſumme of all is, as if the Pſalmiſt ſhould have ſaid; Lord, I have many arguments to urge, to perſwade thee to deliver thy people out of their great afflictions: But eſpecially I entreat thee to looke upon thy Covenant made with our Fathers, and accor<g ref="char:EOLhyphen"/>dingly to deliver their Poſterity. This Iurge the more, becauſe thy people are throughout the Land oppreſſed grievouſly by thine and their enemies.</p>
+            <p>Out of the words thus cleared, eaſily ariſe theſe foure Obſerva<g ref="char:EOLhyphen"/>tions uſefull for theſe times, and fit for this occaſion:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſervat. </seg>1</label> Firſt,That <hi>God is in Covenant with his people;</hi> Elſe would they not preſſe it, and God might eaſily reject their plea.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>2</label> Secondly,That <hi>God ſeemes to his people to neglect his Covenant, when they are oppreſſed by ungodly men;</hi> Elſe would they not have called up<g ref="char:EOLhyphen"/>on God to have reſpect unto his Covenant: and in the firſt verſe, God is charged to have caſt them off for ever.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>3</label> 
+               <hi>The Covenant is the Churches ſureſt plea;</hi> Therefore is it here, and often in other places urged.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>4</label> 
+               <hi>Wee have moſt need to plead Gods Covenant in times of greateſt trouble;</hi> So Gods Servants doe here.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> 
+               <label>For the Firſt:</label>
+               <hi>God is in Covenant with his people.</hi>
+            </p>
+            <p>I might bring many Texts out of the Old and New Teſtament to prove it, if it were not notoriouſly known. A few places there<g ref="char:EOLhyphen"/>fore may ſerve:
+<note n="(a)" place="margin">Pſal. 50.5.</note> 
+               <hi>Gather my Saints together unto mee,</hi> ſaith God by <hi>Aſaph, thoſe that have made a Covenant with mee by Sacrifice.</hi> And by the Prophet <hi>Ezekiel
+<note n="(b)" place="margin">Ezek. 16.8.</note> I ſware unto thee, and entred into a Cove<g ref="char:EOLhyphen"/>vant with thee, ſaith the Lord God, and thou becameſt mine.</hi> As much is ſaid for Chriſtians in the New Teſtament, as for Jewes in the old,
+<note n="(c)" place="margin">Mat. 26.28</note> 
+               <hi>This is the blood of the New Teſtament,</hi> ſaith our bleſſed Saviour, or <hi>of the New Covenant.</hi> For <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the New Teſta<g ref="char:EOLhyphen"/>ment anſwers to <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Old, as the learned know. And ſo it is tranſlated in the Epiſtle to the Hebrews, and the point like<g ref="char:EOLhyphen"/>wiſe proved, where Chriſt is ſaid to bee
+<note n="(d)" place="margin">Heb. 8.6.</note> 
+               <hi>a Mediatour of a bet<g ref="char:EOLhyphen"/>ter Covenant.</hi> And God is ſaid
+<note n="(e)" place="margin">Heb. 8.8, 9, 10.</note> to make <hi>a new Covenant with us:</hi> which is there ſet out at large.</p>
+            <pb n="7" facs="tcp:113279:6"/>
+            <p>I ſhall endeavour to confirme it by Arguments:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> For firſt, it is a formall Covenant under hand and ſeale,and who then can doubt of the truth of it?
+<note n="(f)" place="margin">Rom. 4.11.</note> The ſeale of Circumciſion is put to it to confirm it, <hi>Gen.</hi> 17.7. The Co<g ref="char:EOLhyphen"/>venant is ſet dowue, That God will bee <hi>Abrahams</hi> God, and the God of his ſeed. And at the eleventh verſe Circumciſion is re<g ref="char:EOLhyphen"/>quired as a token of the Covenant betweene God and them. The Paſſeover is added as another Seale of the Covenant, <hi>Ex<g ref="char:EOLhyphen"/>od.</hi> 12.13. where under that one promiſe of delivering their chil<g ref="char:EOLhyphen"/>dren, when the firſt borne of the Egyptians ſhould bee deſtroy<g ref="char:EOLhyphen"/>ed, all other benefits of the Covenant made in Chriſt are ſhadow<g ref="char:EOLhyphen"/>ed out. Therefore is Chriſt called our Paſſeover.
+<note n="(g)" place="margin">1 Cor. 5.7.</note> 
+               <hi>For Chriſt our Paſſeover is ſacrificed for us,</hi> ſaith the Apoſtle. In the New Te<g ref="char:EOLhyphen"/>ſtament this Covenant is declared, <hi>Matth.</hi> 28.20. we muſt do all that Chriſt commands, and hee will bee with us to the end of the world. And Baptiſme is added as a ſeale of this Covenant, in the verſe before. The Lords Supper is added as a further confir<g ref="char:EOLhyphen"/>mation of this Covenant, 1 <hi>Cor.</hi> 11.25. <hi>This cup is the New Te<g ref="char:EOLhyphen"/>ſtament,</hi> or <hi>Covenant in my blood:</hi> That is to ſay, it is the ſeale of it. What Covenant can be more full and formall then this between God, and his people, which is ſo plainly declared, and plentifully ſealed?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondly, this Covenant is acknowledged on both hands.It is owned by both parties. And no matter whether others, that have no ſhare in it, will take notice of it or no. God con<g ref="char:EOLhyphen"/>feſſeth himſelfe to bee ours, and ownes us for his.
+<note n="(h)" place="margin">Jer. 30.22. Deut. 26.26, 27, 28.</note> 
+               <hi>Yee ſhall bee my people, and I will bee your God.</hi> Wee confeſſe that wee are Gods; and challenge him for ours.
+<note n="(i)" place="margin">Pſal 95.7.</note> 
+               <hi>He is our God, and we are the people of his paſture, and the ſheep of his hand.</hi> And who can deny that Covenant that both parties acknowledge? what need any further witneſſes?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Thirdly,it is confirmed by the titles of Covenanters in the Word of God. A Maſter is in Covenant with his hired ſer<g ref="char:EOLhyphen"/>vant. God is our Maſter, <hi>Mal.</hi> 1.6. <hi>If I be a Maſter, where is my feare?</hi> And our Saviour ſaith to his Diſciples,
+<note n="(k)" place="margin">Ioh. 13.13</note> 
+               <hi>Ye call mee Maſter, and Lord, and ye ſay well. for ſo I am.</hi> And every one of us muſt confeſſe with <hi>David,
+<note n="(l)" place="margin">Pſal. 116.16.</note> Oh Lord, truly I am thy ſervant, I am thy ſervant and theſon of thy handmaid.</hi>
+            </p>
+            <pb n="8" facs="tcp:113279:7"/>
+            <p>An adopting father is in
+<note n="*" place="margin">
+                  <hi>Vide adoptio<g ref="char:EOLhyphen"/>nis formulam apud Romanos Gell. noct. Attic. l</hi> 5. <hi>c.</hi> 19</note> Covenant with an adopted child. Hence the Chaldee word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a ſonne may bee taken from <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>to chuſe.</hi> God adopts us for his children, and makes us to be ſo. Chriſt dyed for us,
+<note n="(a)" place="margin">Gal. 4.5.</note> 
+               <hi>That we might receive the adoption of ſonnes.</hi> God ownes us for ſuch.
+<note n="(b)" place="margin">2 Cor. 6.18</note> 
+               <hi>I will bee a Father unto you, and ye ſhall bee my ſonnes and daughters, ſaith the Lord Almighty.</hi> The husband and wife enter into a ſolemn Covenant one with the other. It is called <hi>a Covenant of God, Prov.</hi> 2.17. God bids his people call him <hi>Iſhi</hi> my husband, <hi>Hoſ.</hi> 2.16. and confeſſeth himſelfe ma<g ref="char:EOLhyphen"/>ryed to us, <hi>Jer.</hi> 3.14. A King and his people are in Covenant. Hee is to rule them in the feare of God, and they are to obey him ac<g ref="char:EOLhyphen"/>cording to the lawes of the Kingdome. God is our King,
+<note n="(c)" place="margin">Pſal. 149.2</note> 
+               <hi>Let the children of Zion bee joyfull in their King.</hi> And wee may ſay with Gods people.
+<note n="(d)" place="margin">Pſal. 28.9.</note> 
+               <hi>Save thy people, and bleſſe thine inheritance.</hi> By all theſe titles, the Covenant between God and his Church is abun<g ref="char:EOLhyphen"/>dantly proved, and fully confirmed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>4</label> Fourthly,this League appeares by mutuall Offices really per<g ref="char:EOLhyphen"/>formed to each other according to the Covenant. Is Gods people afflicted in <hi>Egypt,</hi> and doe they groane in their Spirits by reaſon of an heavy bondage? God will come downe and deliver them.
+<note n="(e)" place="margin">Exod. 2.24, 25.</note> 
+               <hi>God heard their groaning, and God remembred his Covenant with</hi> Abra<g ref="char:EOLhyphen"/>ham, <hi>with</hi> Iſaac, <hi>and with</hi> Jacob. <hi>And God looked upon the children of Iſrael, and God had reſpect unto them.</hi> Doth <hi>Senacherih</hi> beſiege <hi>Jeruſalem,</hi> affright Gods people, and threaten utter deſtruction to them?
+<note n="(f)" place="margin">2 King. 19.35.</note> God will ſend an Angel to deſtroy his hoaſt in a night. Do the Reubenites, &amp; Gadites, and half Tribe of Manaſſeh ſet up a new Altar, as if they went to worſhip another God?
+<note n="(g)" place="margin">Joſh. 22.</note> Gods people will expoſtulate with them, and maintaine Gods honour againſt them by warre if there had been cauſe. Doe the men of <hi>Gibeah</hi> diſhonour God by abuſing the Levites wife to death, and doe the Benjamites uphold them in it?
+<note n="(h)" place="margin">Judg. 20.</note> Gods people will not give over, till they have welnigh rooted them all out, though ma<g ref="char:EOLhyphen"/>ny of themſelves dyed in the quarrell. This mutuall upholding of the peoples ſafety and Gods honour, is a reall proofe of the Cove<g ref="char:EOLhyphen"/>nant. And ſo much for the firſt point.</p>
+            <p>The ſecond Obſervation was this:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> 
+               <hi>God ſeems to his people to neglect his Covenant,when they are oppreſ<g ref="char:EOLhyphen"/>ſed by ungodly men.</hi>
+            </p>
+            <pb n="9" facs="tcp:113279:7"/>
+            <p>So <hi>Aſaph</hi> complaines. After an acknowledgement that God was <hi>the ſhepherd of Iſrael,</hi> and ſo in Covenant with his people, and ac<g ref="char:EOLhyphen"/>cordingly had wonderfully brought them out of <hi>Egypt,</hi> and made them flouriſh marvellouſly in the land of <hi>Canaan,</hi> hee attributes their miſeries to Gods neglect.
+<note n="(a)" place="margin">Pſal. 80.12</note> 
+               <hi>Why haſt thou then broken down her hedges, ſo that all they which paſſe by the way, doe pluck her?</hi> So <hi>Ethan</hi> the <hi>Ezrahite,</hi> having mentioned Gods firme Covenant made with <hi>David,</hi> afterwards chargeth God,
+<note n="(b)" place="margin">Pſal. 89.39</note> 
+               <hi>Thou haſt made void the Covenant of thy ſervant: thou haſt prophaned his crown, by caſting it to the ground.</hi>
+            </p>
+            <p>Many reaſons may bee given of this unkinde carriage of Gods people to him. As,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Firſt, becauſe their miſery blindes them.And blinde men when they are ſmitten ſuſpect every man that comes neer them.
+<note n="(c)" place="margin">Luk. 22.64</note> The men that held Chriſt, blinde-fold him, then ſmite him on the face, and bid him Propheſie who ſmote him. Such is our condition, when affliction blindes us, that wee cannot tell, who ſmote us, un<g ref="char:EOLhyphen"/>leſſe wee could propheſie.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondly, ſelf-love makes us ſuſpect any rather then our ſelves,yea, even God himſelfe. The people ſhould have reflected upon themſelves, that were nocent, and in their ſorrowes they reflect upon God, that was innocent. Wee are all <hi>Adams</hi> and <hi>Eves</hi> chil<g ref="char:EOLhyphen"/>dren. When <hi>Eve</hi> had eaten of the for<g ref="char:EOLhyphen"/>bidden fruite, ſhee
+<note n="*" place="margin">Adam <hi>ſe excuſare voluit de muliere, mulier ſe excuſare voluit de Serpente</hi> Aug. Hom. 12. <hi>Excu<g ref="char:EOLhyphen"/>ſare peccatum voluit, vir per mulierem, mulier per ſerpentem,</hi> Greg. Mor. l. 22. c. 13. <hi>Oblique</hi> Adam <hi>Dominum tangit, quaſi ipſe peccati ſui autor en<g ref="char:EOLhyphen"/>titerit, qui mulierem fecit: Et</hi> Eva <hi>culpam ad Do<g ref="char:EOLhyphen"/>minum refert, qui ſerpentem in Paradiſo poſuit,</hi> Greg. ibid. Et ibid. l. 4. c. 23. <hi>Exceſſus ſui vi<g ref="char:EOLhyphen"/>tium in autorem latenter in torquet, q. d tu occa<g ref="char:EOLhyphen"/>ſionem delinquendi praebuiſti, qui mulierem de<g ref="char:EOLhyphen"/>diſti. Ita Creator hinc blaſphematur, dum enim vult excuſari ſe in eo, quod fecit home, Deum accu<g ref="char:EOLhyphen"/>ſat, a quo factus eſt homo.</hi> Aug. <hi>ubi ſupra.</hi>
+               </note> tacitly layes the fault upon God.
+<note n="(d)" place="margin">Gen. 3.13.</note> 
+               <hi>The Serpent begui<g ref="char:EOLhyphen"/>led mee, and I did eate.</hi> Hadſt thou not made a ſubtill Serpent, I had not bro<g ref="char:EOLhyphen"/>ken thy Commandement. <hi>Adam</hi> layes it openly upon God.
+<note n="(e)" place="margin">Gen. 3.12.</note> 
+               <hi>The woman whom thou gaveſt to bee with mee, ſhee gave mee of the tree, and I did eate.</hi> Hadſt thou not give mee ſuch a companion to be<g ref="char:EOLhyphen"/>tray mee, I had been innocent. So wee their poſterity, when trouble is upon us, ſuſpect Gods breaking Covenant, rather then our own.
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Arrian. Epict. l. 3. c. 19.</note> Thus our nur<g ref="char:EOLhyphen"/>ſes beat the ſtone, when children ſtum<g ref="char:EOLhyphen"/>ble through their own neglect.</p>
+            <pb n="10" facs="tcp:113279:8"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Thirdly,in time of need wee moſt commonly ſuſpect ſuch as are beſt able to help us. The ſick man, if hee bee in danger of death ſuſpects not his ignorant neighbours, but his skilfull Phyſitian. Hee that is oppreſſed in his eſtate, when the ſentence goes againſt him, ſuſpects none more then the Advocate, or the Judge. Wee know God is beſt able to help us, our corruption therefore makes us to ſuſpect him moſt, if our troubles continue.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> Fourthly,wee moſt ſuſpect thoſe who as wee thinke have moſt reaſon to helpe us in our miſeries, and doe it not. If the ſervant want meate or apparell, hee complaines not of his fellow-ſervants, but of his Maſter, who is tyed by covenant to provide for him. If the childe bee wronged by the ſervants, hee layes not the fault up<g ref="char:EOLhyphen"/>on his brethren, but upon his Father, who by bands of nature, is obliged to take care of him. So wee being in Covenant with God, wonder not much if others faile us, but complain heavily, that God ſeemes to neglect us. And ſo much for the ſecond point.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> The third follows,which is this. <hi>The Covenant is the Churches ſureſt plea.</hi>
+            </p>
+            <p>This was <hi>Solomons</hi> ſtrongeſt argument in his ſolemn mayer at the Dedication of the Temple.
+<note n="(a)" place="margin">2 Chron. 6.14.</note> 
+               <hi>O Lord God of Iſrael, there is no God like thee, in the heaven, nor in the earth, which keepeſt Covenant.</hi> This was <hi>Nehemiahs.
+<note n="(b)" place="margin">Neh. 1.5.</note> I beſeech thee, O Lord God of Heaven, the great and terrible God, that keepeth Covenant.</hi> This was the Levites ar<g ref="char:EOLhyphen"/>gument.
+<note n="(c)" place="margin">Neh. 9.32.</note> 
+               <hi>Now therefore our God, the great, the mighty, and the ter<g ref="char:EOLhyphen"/>rible God, who keepeſt Covenant.</hi>
+            </p>
+            <p>For the Covenant gives Gods people intereſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Firſt,in all that is in God. Our troubles may bee ſo great, that no humane power can deliver us. There is power enough in God to doe it. But nothing can give us a right in Gods power, but Gods Covenant. Our foes may bee ſo ſubtill that no mans wit can pre<g ref="char:EOLhyphen"/>vent their deſignes. Gods wiſdome can doe it. But the Covenant muſt give us an intereſt in it. Our miſery may bee ſo deep, that no creatures mercy can give us hope of reliefe from them. God is in<g ref="char:EOLhyphen"/>finite in mercy, but the Covenant onely can ſtate us in a conditi<g ref="char:EOLhyphen"/>on capable of good by it. Our waywardneſſe may bee ſo ſtrange, that no friend could beare with it. Gods patience is admirable, but it is exerciſed for good to thoſe onely that are in Covenant
+<pb n="11" facs="tcp:113279:8"/>with him. Our adverſaries may doe us much wrong, and ſuch as no Magiſtrates can right. Gods juſtice can doe it. But with what face can wee come to God for juſtice, if wee bee not in Covenant with him? Many times our conſciences will threaten hell to us. But God is the God of Truth, who hath appointed ſalvation for us, if wee bee in Covenant with him. That which is ſaid of Gods mercy,
+<note n="(a)" place="margin">Pſal. 89.28</note> that hee will never take it away from thoſe that are in Covenant with him, is true of his power, wiſdome, and the reſt of the forenamed attributes. So in leagues here, defenſive, and of<g ref="char:EOLhyphen"/>fenſive, one parties power and wiſdome ſupply the others folly and weakneſſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondly, it gives us a right in all Gods promiſes.For they are all made to ſuch as are in Covenant with him. Gods promiſes are innumerable. There is in Gods Word a multitude of parti<g ref="char:EOLhyphen"/>cular promiſes, that may bee as ſo many ſalves for ſo many ſores. There are many generall promiſes, that comprehend within the bowels of them, remedies for all our calamities. There are pro<g ref="char:EOLhyphen"/>miſes that concern this life, there are others that concern the life to come. The Covenant gives right to them all.
+<note n="(b)" place="margin">1 Tim. 4.8.</note> 
+               <hi>Godlineſſe is profitable unto all things, having the promiſe of the life that now is, and of that which is to come.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Thirdly, it gives us an intereſt in all Gods good creatures.In beaſts,
+<note n="(c)" place="margin">Hoſ. 2.18.</note> 
+               <hi>In that day will I make a covenant for them with the beaſts of the field, and with the fowles of the Heaven, and with the creeping things of the ground.</hi> In men,
+<note n="(d)" place="margin">Prov. 16.7.</note> 
+               <hi>When a mans wayes pleaſe the Lord, hee maketh even his enemies to bee at peace with him.</hi> In Angels,
+<note n="(e)" place="margin">Pſal. 91.11, 12.</note> 
+               <hi>Hee ſhall give his Angels charge over thee, to keepe thee in all thy wayes. They ſhall heare thee up in their hands: leſt thou daſh thy foote againſt a ſtone.</hi>
+               <note n="(f)" place="margin">Heb 114.</note> And all Gods Angels are ſent forth to miniſter for the heires of ſalvation.
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ro<g ref="char:EOLhyphen"/>mulus. Dionyſ. Halic l.</hi> 2. <hi>
+                     <g ref="char:V">Ʋ</g>xor rethumanae at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> divinae ſccia ſu<g ref="char:EOLhyphen"/>ſcipitur. Mode<g ref="char:EOLhyphen"/>ſtin in</hi> Reg. jur. Digeſt. l. 23. tit. 2. l. 1. <hi>Et Gor<g ref="char:EOLhyphen"/>dian</hi> l. 9. tit. 23. l. 4.</note> A Wife by the covenant of Mariage hath an in<g ref="char:EOLhyphen"/>tereſt not onely in all her husbands perſonall abilities, and the promiſes made to her in Mariage, but alſo in his ſervants and cat<g ref="char:EOLhyphen"/>tle. So have Gods people in all his good creatures by vertue of the Covenant.</p>
+            <p>Fourthly, they which are in Covenant with God, have a right in all Gods proviſions. In temporall, as meate, apparell, Phyſick, and the like. In ſpirituall ones, as in the outward Ordinances, the Word, Prayer, Sacraments; In inward graces, as Faith, Hope,
+<pb n="12" facs="tcp:113279:9"/>Charity, &amp;c. Theſe are the Jewels that Chriſt adornes his ſpouſe withall. Yea, theſe have a right to eternall glory, and ſhall receive it in ſoule when they dye, and in body at the reſurrection. See the largeneſſe of our Charter.
+<note n="(a)" place="margin">1 Cor. 3.21, 22, 23.</note> 
+               <hi>All things are yours, whether</hi> Paul, <hi>or</hi> Apollo, <hi>or</hi> Cephas, <hi>or the world, or life, or death, or things preſent, or things to come, all are yours.</hi> And the reaſon and ground of all, and of their intereſt in all, is,
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Clem. Protrept.</hi>
+               </note> Becauſe they are Chriſts, and Chriſt is Gods.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>5</label> Fifthly,in Gods protection. This alſo by covenant belongs to Gods people. <hi>Paul</hi> boaſts of it, and glories in it.
+<note n="(b)" place="margin">Rom. 8.38, 39.</note> 
+               <hi>I am perſwa<g ref="char:EOLhyphen"/>ded, that neither death, nor life, nor Angels, nor Principalities, nor Powers, nor things preſent, nor things to come, nor heighth, nor depth, nor any other creature, ſhall bee able to ſeparate us from the love of God, which is in Chriſt Jeſus our Lord.</hi> Hee teach<g ref="char:EOLhyphen"/>eth us to vilifie as well the might as malice of any creature whatſoever, when wee
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>So<g ref="char:EOLhyphen"/>erat. in Platon. Apol. Epict. Enchir. c.</hi> 79. <hi>&amp; Diſ<g ref="char:EOLhyphen"/>fert. l.</hi> 1. <hi>c.</hi> 29. <hi>&amp; l.</hi> 3. <hi>c.</hi> 23. <hi>Clem. Strom. l.</hi> 4. <hi>Theodor. Therap. l.</hi> 8. <hi>Plut. de Tranq. Max. Diſſ.</hi> 2.</note> are in Covenant with God.
+<note n="(c)" place="margin">Rom. 8.21. <hi>Si Deus pro nobis, niſi qui Deum vincit, non laedit nos.</hi> Aug. <hi>de Verb. Apoſt.</hi> 16. <hi>&amp;</hi> Beda <hi>in</hi> Rom. 8.</note> 
+               <hi>If God bee for us, who can bee againſt us?</hi> Let the world, let the devill rage, they cannot hurt us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>6</label> Sixthly,they have a right in Chriſts victories over Satan, the world and hell. Chriſt is the great Conquerour: but his con<g ref="char:EOLhyphen"/>queſts are for our comfort.
+<note n="(d)" place="margin">Joh. 16.33</note> 
+               <hi>In the world yee ſhall have tribulati<g ref="char:EOLhyphen"/>on, but bee of good cheen, I have overcome the world.</hi> Nay, wee have intereſt in his victories. Wee are not able to overcome our ſpiri<g ref="char:EOLhyphen"/>tuall enemies by our piety, nor by our patience, nor by our obe<g ref="char:EOLhyphen"/>dience, nor by our zeale, but by our Faith in Chriſt.
+<note n="(e)" place="margin">1 Joh. 5.4.</note> 
+               <hi>Whoſo<g ref="char:EOLhyphen"/>ever is born of God overcommeth the world, and this is the victory, that o<g ref="char:EOLhyphen"/>vercommeth the world, even our Faith.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>4</label> The fourth point follows.<hi>Wee have moſt need to plead Gods Cove<g ref="char:EOLhyphen"/>nant in times of greateſt trouble.</hi> This hath been the practiſe of Gods Saints. <hi>David</hi> pleads it for himſelf, when hee was in deep afflictions.
+<note n="(f)" place="margin">Pſal. 119.49, 50.</note> 
+               <hi>Remember the word unto thy ſervant: upon which thou haſt cauſed mee to hope. This is my comfort in my affliction: for thy word hath quickned mee. Moſes</hi> pleads it for the children of <hi>Iſrael,</hi> when God was ſo incenſed againſt them, that hee threatned to conſume them.
+<note n="(g)" place="margin">Exod. 32.13.</note> 
+               <hi>Remember</hi> Abraham, Iſaac, <hi>and</hi> Iſrael <hi>thy ſervants, to whom
+<pb n="13" facs="tcp:113279:9"/>thou ſwareſt by thine own ſelf, and ſaidſt unto them, I will multiply your ſeed, as the ſtarres of heaven: and all this land, that I have ſpoken of, will I give unto your ſeed, and they ſhall inherit it for ever.</hi>
+            </p>
+            <p>This is the fitteſt time to plead Gods Covenant.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Firſt, in regard of our enemies.It is in vain to ſeek help from them, that doe all they can to ruine us. They bend all their po<g ref="char:EOLhyphen"/>licy, and all their power againſt us. And what hope can wee have of any ſuccour or comfort from them?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondly,as wee can look for nothing but injury from our ene<g ref="char:EOLhyphen"/>mies, ſo wee have no helpe in our ſelves. Our condition may bee ſo low that wee may bee forced to ſay to God with <hi>Jehoſhaphat, Wee know not what to doe, but our eyes are upon thee.</hi> 2 Chron. 20.12. And what have wee moſt need to plead then? Gods Covenant.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Thirdly, wee may bee forſaken of all others,as <hi>Iſrael</hi> was in <hi>Egypt.</hi> And then our eyes muſt bee fixed on the Covenant.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> Fourthly, if at ſuch time God had denyed to help us,when our foes oppreſſe us, our own ſtrength failes, and others refuſe to help us, wee might ſinke for deſperation. But God hath often promi<g ref="char:EOLhyphen"/>ſed to make good his Covenant. And therefore wee have reaſon to plead it moſt, when wee need it moſt. Men ſeek not to their confe<g ref="char:EOLhyphen"/>derates for help, till they have need, and then they claime it as due by covenant. So muſt wee in our greateſt miſeries cry out moſt ear<g ref="char:EOLhyphen"/>neſtly, <hi>Have reſpect unto the Covenant.</hi>
+            </p>
+            <p>The grounds being laid, I proceed to Application.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> This ſhews unto us the great dignity and ſupereminent excellen<g ref="char:EOLhyphen"/>cy of Gods people. They,and they onely of all the people on earth, are in covenant with God. They are Gods
+<note n="(a)" place="margin">Iſa. 44.1, 2.</note> choſen and choiſe ones. When men chuſe, and chuſe for themſelves, eſpeci<g ref="char:EOLhyphen"/>ally for ſome excellent uſe, they ſet an high price upon the things they chuſe. As when a man chuſeth a wife to appropriate to him<g ref="char:EOLhyphen"/>ſelfe. So are wee choſen by God
+<note n="(b)" place="margin">Pſal. 135.4.</note> for himſelf, and for no mean uſe, but to bee his peculiar treaſure. It coſt him
+<note n="(c)" place="margin">Deut. 4.34</note> many ſignes and wonders to bring his people out of <hi>Egypt.</hi> A thing which hee never aſſaid to doe for any other people. Theſe are the
+<note n="(d)" place="margin">Amos 3.2.</note> onely people that God knows upon the face of the earth. Other people hee cannot bee ignorant of, although hee acknowledge none for his own people, but his Church. Theſe are
+<note n="(e)" place="margin">Mal. 3.17</note> his Jewels. They have daily converſe with God in publick, and private in his Ordi<g ref="char:EOLhyphen"/>nances.
+<pb n="14" facs="tcp:113279:10"/>A freedome denyed to other Nations. They live in Gods Court; others in rude and remote places of the Country.
+<note n="(a)" place="margin">Jer. 38.5. Eſter 5.6.</note> Theſe have the Kings eare ready to grant their requeſts. Others may ask, and goe without. Theſe are that people, that muſt
+<note n="(b)" place="margin">Num. 23.9.</note> dwell alone, and not bee reckoned among the Nations. I conclude this Uſe, as <hi>David</hi> concludes, <hi>Pſal.</hi> 144. <hi>Happy is that people, that is in ſuch a caſe, yea, happy is that people, whoſe God is their Lord.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> Secondly,this ſets before our eyes the ſafety of Gods people. They are in covenant with God, and who can hurt whom God will keepe? Our ſafety is in
+<note n="(c)" place="margin">Pſal. 73.28.</note> drawing neere to God. And how can wee draw neerer to God, then by a Covenant? It
+<note n="*" place="margin">
+                  <hi>Sicut non poteſt quicquam ignis appropinqua<g ref="char:EOLhyphen"/>tione fierifrigi diſſimum; ita non poteſt homo, qui ſolus haeret Deo beatiſſimo, miſerrimus fieri.</hi> Marſil. Ficin. Florent. de Relig. Chriſt. l. 4.</note> were ſtrange that a man ſhould catch cold by drawing neere to the fire. It were no leſſe ſtrange that a man ſhould be<g ref="char:EOLhyphen"/>come miſerable by cleaving to God, who is moſt happy. Gods people may bee
+<note n="(d)" place="margin">2 Cor. 6.9.</note> 
+               <hi>Perſecuted, but not forſaken; caſt down, but not deſtroyed.</hi> Why ſhould wee diſtruſt Gods Covenant, when the hea<g ref="char:EOLhyphen"/>then had ſo much confidence in
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Xenoph. in Ageſil. c.</hi> 29.</note> 
+               <hi>Age<g ref="char:EOLhyphen"/>ſilaus,</hi> that they truſted more to his Oath, and covenant, then they did to their own friendſhip, and when they would not put themſelves in<g ref="char:EOLhyphen"/>to one anothers hands, they would commit themſelves to his cu<g ref="char:EOLhyphen"/>ſtody? The <hi>Chaldees</hi> call a covenant <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. a firm, a ſtable thing. So is Gods Covenant like the Laws of the
+<note n="(e)" place="margin">Dan. 6.15.</note> 
+               <hi>Medes</hi> and <hi>Perſians,</hi> that could not bee altered. It brings ſafety then to thoſe, that are within it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> Thirdly,it demonſtrates the great expectation of the people of God. Their hopes fly very high. Others, though the favourites of Kings and Emperours, can look for nothing, but what the arme of fleſh can afford, and are often utterly croſt in that alſo. They
+<note n="(f)" place="margin">Pſal. 146.3, 4.</note> put their truſt in Princes, and in the ſons of men, in whom there is no hope, that periſh themſelves, and all their thoughts with them. But Gods people may look for what an infinite God hath promiſed to doe for them, to make them eternally happy, and is able to performe. And what is there in heaven or earth that this God cannot beſtow upon them? Courtiers that ſee the riches of the Court, expect great preferments from the Kings whom they
+<pb n="15" facs="tcp:113279:10"/>ſerve. What good may not Gods people expect from God, who is Lord of all that their eyes behold, their eares can heare of, or their hearts can imagine, and hath prepared much more then all this for his people?
+<note n="(a)" place="margin">1 Cor. 2.9.</note> 
+               <hi>Eye hath not ſeen, nor eare heard, neither have ente<g ref="char:EOLhyphen"/>red into the heart of man, the things which God hath prepared for them that love him.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> Fourthly,here as in a glaſſe wee ſee the weakneſſe of Gods ſer<g ref="char:EOLhyphen"/>vants, who
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ille apud <hi>Plut.</hi> de Tranquill.</note> when they ſhould in their miſeries complain of them<g ref="char:EOLhyphen"/>ſelves, and acknowledge Gods Juſtice, complain of God, as if hee had broken covenant with them. They deale with God as <hi>Jacob</hi> did with his children:
+<note n="(b)" place="margin">Gen. 43.6.</note> 
+               <hi>Wherefore dealt yee ſo ill with mee, as to tell the man, whether yee had yet a brother?</hi> Hee blames them for telling truth, when they were examined, but doth not acknowledg his own fondneſſe, that for the preſent could have been content, that himſelf and all his ſhould periſh for famine, and <hi>Simeon</hi> his Son lie in priſon in <hi>Egypt,</hi> rather then hee would part with <hi>Benjamin</hi> for a little while. So doe Gods people in their troubles bury their own faults, and lay all the blame on God, who is altogether blameleſſe.
+<note n="(c)" place="margin">Pſal. 60.3.</note> 
+               <hi>Thou,</hi> ſay they, <hi>haſt ſhewed thy people hard things; thou haſt made us to drink the wine of aſtoniſhment.</hi> Whereas they ſhould have ſaid, wee have broken the Covenant made with our God, and therefore thou haſt juſtly ſuffered the enemies to prevaile againſt us, and to bring us to a very low and ſad condition.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>5</label> Fifthly, it teacheth us to plead this Covenant,when wee ſeek to God for favour. Wee have no merits to plead. Our beſt ſervices are polluted. They call for judgements, rather then for mercies. Our fins may make us to deſpaire, but Gods Covenant will uphold us. This will ſtand us in ſtead
+<note n="(d)" place="margin">Pſal. 27.20</note> when Father and Mother forſake us. This will doe us good, when all our friends are dead and gone.
+<note n="(e)" place="margin">Iſa. 63.16.</note> 
+               <hi>Doubtleſſe thou art our Father, though</hi> Abraham <hi>bee ignorant of us, and</hi> Iſrael <hi>acknowledge us not: thou, O Lord, art our Father, and Redee<g ref="char:EOLhyphen"/>mer, thy Name is from everlaſting.</hi>
+               <note n="(f)" place="margin">Luk. 15.21</note> The prodigall, when all had forſaken him, had nothing to plead, but the name of Father. <hi>Ser<g ref="char:EOLhyphen"/>vet us</hi> blaſphemouſly calls this pleading of Gods Covenant,
+<note n="*" place="margin">
+                  <hi>Ineptum &amp; ſtultum luſion, quod ſuas Deo promiſſienes in<g ref="char:EOLhyphen"/>ter precandum objicimus.</hi> Calr. in Text.</note> an un<g ref="char:EOLhyphen"/>fit and fooliſh ſport, that wee offer Gods promiſes to him, when wee pray. But Gods people have accounted Gods promiſes to bee their ſureſt bulwark, and his Covenant their greateſt ſtrength, when they have come to plead with their God. If there bee nothing
+<pb n="16" facs="tcp:113279:11"/>in us, that can move God to pity us, there is enough in the Cove<g ref="char:EOLhyphen"/>nant, if it bee pleaded in faith and ſincerity.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>6</label> Sixthly,it calls upon us to bleſſe God for keeping Covenant with us; and ſo much the rather, becauſe wee have broken Cove<g ref="char:EOLhyphen"/>nant with God, and given him juſt cauſe to faile us. Wee muſt therefore not onely give him the glory of his truth, but of his mercy alſo. In Victories, whereof wee have had great ſtore of late, wee muſt looke above our ſelves, and above the meanes, to Gods Covenant, from whence all the Victories of his people doe proceed. God hath taught us ſo to doe in ſome of our greateſt Victories, firſt ſhewing us by the flight of our men and Horſes, what wee could not doe, as in the battaile at <hi>Edgehill,</hi> and the Victory neare <hi>Yorke;</hi> and then by putting valour and courage into the hearts of the remainder of the Souldiers to get the Vi<g ref="char:EOLhyphen"/>ctory, ſhewing us what our God could doe. And in the Vi<g ref="char:EOLhyphen"/>ctories ſince, by that Modell ſo much deſpiſed, hee hath taught us to ſee the hand of God manifeſtly in the battailes fought by men. Wee muſt therefore ſay,
+<note n="(a)" place="margin">Pſal. 115.1.</note> 
+               <hi>Not unto us Lord, not unto us, but unto thy name bee the glory: for thy mercy, and for thy truths ſake.</hi> And wee muſt give the ſame reaſon which the Pſalmiſt doth,
+<note n="(b)" place="margin">Pſal. 105.7.</note> 
+               <hi>He hath remembred his Covenant for ever: the word which he commanded to a thou<g ref="char:EOLhyphen"/>ſand generations.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>7</label> Seventhly,wee may here likewiſe behold the cauſe of ſome of our overthrowes given us by our Adverſaries. Wee looke to much upon our ſelves in our Victories. Wee highly commend
+<note n="*" place="margin">
+                  <hi>Si quando no<g ref="char:EOLhyphen"/>bis proſperi ali<g ref="char:EOLhyphen"/>quid praeter ſpem noſtram, &amp; meritwn Deus tribuit, a<g ref="char:EOLhyphen"/>lius aſcribit hoc fortunae a<g ref="char:EOLhyphen"/>lius eventui, alius ordinatio<g ref="char:EOLhyphen"/>ni ducum, alius conſilio, alius Magiſtro, alius patroeinio, nul<g ref="char:EOLhyphen"/>lus Deo. Hoc modo opertet &amp; terris gratius agere, quod fiuges annuas metimus, &amp; vineis quod vindeniamus, mari quod piſcus ca<g ref="char:EOLhyphen"/>pimus, ſilvis quod ligna caedimus,</hi> Salv. de Gub. Dei. l. 7.</note> the Wiſdome of our Senators, the Valour of our Souldiers, the Fidelity of ſuch as have been faithfull in this great Cauſe; but wee ſleightly praiſe God or his Covenant. Wee ſcarſe afford him our bodily preſence in ſolemne dayes of Thankeſgiving; but wee often leave our harts behinde us, and give God no praiſe at all in our owne families, or cloſets, for all the great things God hath done for us. Wee have cauſe indeed to bleſſe God for ſuch excellent helpes, as hee hath raiſed up for us, and to give them their due commendation among the ſons of men; but if our confidence, or our praiſes reſt on them, God will make us ſmart for it, as ſometimes hee hath done. It was
+<pb n="17" facs="tcp:113279:11"/>a ſad fore-runner of the King of Swedens death, when not long before his end hee ſaid, that
+<note n="*" place="margin">
+                  <hi>Swediſh</hi> In<g ref="char:EOLhyphen"/>telligencer.</note> God would take him away, becauſe the people truſted too much in him. It is not Gods, but our un<g ref="char:EOLhyphen"/>faithfulneſſe, that brings loſſes upon us.
+<note n="*" place="margin">
+                  <hi>Miramur ſi nobis coeleſtis manus aliqua non praeſtet, qui quicquid praeſti<g ref="char:EOLhyphen"/>terit, derogamus</hi> Salv de gub. Dei. l. 7.</note> Doe wee wonder, ſaith <hi>Salvian,</hi> if Gods heavenly hand give us not ſome things that wee would have, who derogate from him the praiſe of all the good that hee hath done for us?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>8</label> Eighthly, let us plead this Covenant of God moſt earneſtly in the time of our greateſt neceſſity. In troubleſome dayes, ſuch as theſe are; and in the dayes of our publick humiliation.Thus did the Prophet in the time of the Churches trouble.
+<note n="(a)" place="margin">Jer. 14.21.</note> 
+               <hi>Doe not abborre us for thy Names ſake, doe not diſgrace the throne of thy glory: re<g ref="char:EOLhyphen"/>member, break not thy Covenant with us.</hi> Gods Covenant pleaded, was ever accounted the Saints Sanctuary to flye to in ſuch dange<g ref="char:EOLhyphen"/>rous times. Their greateſt hope of deliverance was in this, that God was theirs by Covenant. Our prayers can have no other ſolid foundation. Great need there is for godly men to lay claime to Gods Covenant, when all places are like dens of theeves, and rob<g ref="char:EOLhyphen"/>bers, and oppreſſion reignes every where. How many ſuch have wee left yet in this Kingdome, although God hath graciouſly de<g ref="char:EOLhyphen"/>livered up many of them to our Forces, and given the ſpoilers to the ſpoile? Therefore wee had yet need to cry out this day with <hi>Aſaph, Have reſpect unto the Covenant, for the dark places of the Land are full of the habitations of cruelty.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>9</label> Ninthly,wee ſhould learn from hence to bewaile our breaches of Covenant with God, that hinder us from pleading Gods Co<g ref="char:EOLhyphen"/>venant with us. This ſin is objected to the people by the Pſalmiſt, as a cauſe of Gods forſaking them, and delivering of his Ark into the enemies hand.
+<note n="(b)" place="margin">Pſal. 78.10.37.</note> 
+               <hi>They kept not the Covenant of God; their heart was not right with him, neither were they ſtedfaſt in his Covenant.</hi> A lazy ſervant cannot look for wages, though it bee part of his Maſters Covenant. One compares a Covenant to a Lute, in which
+<note n="*" place="margin">
+                  <hi>Si una chorda defuerit, perfe<g ref="char:EOLhyphen"/>ctus caeteris ſo<g ref="char:EOLhyphen"/>nus eſſe poterit</hi> Hiero. in Pſal. 97.</note> if one ſtring bee out of tune, all the muſick is marred.
+<note n="(c)" place="margin">Judg. 16.17, &amp;c.</note> When <hi>Sampſon</hi> brake his vow, and cut his haire, with his haire hee loſt Gods protection, and was taken and baſely abuſed by the <hi>Phili<g ref="char:EOLhyphen"/>ſtines.</hi> Wee have all of us lately entred into a Solemne Covenant with God, to reform our own ſoules and lives, and according to our callings and abilities to further the Reformation of three
+<pb n="18" facs="tcp:113279:12"/>Kingdomes. Oh that wee would ſmite upon our breaſts this day, and bewaile our failings! Then might wee with comfort and cou<g ref="char:EOLhyphen"/>rage plead Gods Covenant with us, and expect ſafety from it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>10</label> Tenthly,it calls upon us to bee carefull to keep our Covenant for time to come, that wee may expect further comfort from Gods; God will not bee bound, if wee bee free. Remember the ſpeech of <hi>Azariah</hi> the Son of <hi>Oded,</hi> to <hi>Aſa,</hi> and <hi>Judah,</hi> and <hi>Benjamin.
+<note n="(a)" place="margin">2 Chron. 15.2.</note> The Lord is with you, while yee are with him: and if yee ſeek him, hee will bee found of you: but if yee forſake him, hee will forſake you.</hi> Ma<g ref="char:EOLhyphen"/>ny things are objected to diſcourage us from keeping our late, ſo<g ref="char:EOLhyphen"/>lemn, and religious Covenant.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> Firſt,it is ſaid to bee againſt the Commandement of our King, and therefore it ought not to bee obſerved. And the rather, be<g ref="char:EOLhyphen"/>cauſe the Apoſtle chargeth us
+<note n="(b)" place="margin">1 Pet. 2.13</note> to ſubmit to the King as ſu<g ref="char:EOLhyphen"/>preme. As if the power of every King were of that extent, and ſo abſolute, that whatſoever they command, muſt bee obeyed, by do<g ref="char:EOLhyphen"/>ing or ſuffering.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Who ſees not that this interpretation would ſet up a generall Ar<g ref="char:EOLhyphen"/>bitrary government in all Kings in the World,which our Kings never yet challenged in words, though Courtiers, and Biſhops in<g ref="char:EOLhyphen"/>devoured to raiſe them to that heighth? Wee muſt therefore di<g ref="char:EOLhyphen"/>ſtinguiſh between an abſolute Monarchy, and a limited. The ſu<g ref="char:EOLhyphen"/>premacy of abſolute Monarchs, conſiſts in a Legiſlative power, reſi<g ref="char:EOLhyphen"/>ding in themſelves alone. The ſupremacy of limited ones, in Ru<g ref="char:EOLhyphen"/>ling and governing according to the Laws of the Kingdome where<g ref="char:EOLhyphen"/>in they are chiefe, and the Courts of Juſtice, by Law therein eſta<g ref="char:EOLhyphen"/>bliſhed. Ours is of the latter ſort. And wee conceive that the ſu<g ref="char:EOLhyphen"/>preme power of our Kings, which wee are tyed to obey, is not exerciſed in perſonall, and Arbitrary commands, but in their Laws and Courts, whereof the Parliament is the chiefe. Elſe why doe our Laws and Cuſtomes binde the hands of our Kings, that they may not make any Law concerning our Religion, Lives, and Goods, nor impoſe any taxe upon the Kingdome without the conſent of both the Honourable Houſes of Parliament? Why doe they give the ſupreme power of interpreting Laws, not to the perſons of our Kings, who never yet undertook it, nor to their Judges, who have ſmarted for miſ-interpreting Laws, though they did it to pleaſe our Kings; but to the Parliament, who in the ages paſt have
+<pb n="19" facs="tcp:113279:12"/>interpreted our Laws in things doubtfull, and puniſhed the grea<g ref="char:EOLhyphen"/>teſt Officers of the Kingdome for miſ-interpreting them? Why do not our Kings ſit in Judgement in their own perſons, but muſt have ſworn Judges to doe Juſtice, not onely between Subject and Subject, but alſo between King and Subject? Why doe not our Kings as <hi>David</hi> and <hi>Solomon</hi> did, when an offender appeares wor<g ref="char:EOLhyphen"/>thy of death, never try him by a Judge, nor execute him by a She<g ref="char:EOLhyphen"/>riffe, but ſay to one ſtanding by,
+<note n="(a)" place="margin">2 Sam. 1.15 &amp; 4.12. 1 Kin. 2.25.40.</note> Goe and fall on him and kill him?</p>
+            <p>Examples therefore of an unlimited Monarchy, are not apply<g ref="char:EOLhyphen"/>able to the Government of ſuch States, as by the fundamentall Laws have ſet bounds, and fixed limits. If two Feoffees bee intruſted with the eſtate of a dying man for the good of his Children, and one of them, by bad counſell miſled, ſeeks his own dignity moſt, and the other the childrens good, which of theſe two ſhould a creditour pay debts to? Are our Kings onely betruſted with our Religion, Lives, and Liberties? Doth not the <hi>Magna Charta</hi> put a great truſt in our Parliament alſo? Have not our Princes, guided by Courtiers, and Church Paraſites, countenanced Monopolies and Innovations? Have not our Parliaments ſtood up for our lawfull Liberties? Why ſhould wee not then ſtand to them to the utmoſt of our Eſtates and Lives, according to our Covenant? If it bee granted that a power abuſed, may not bee reſiſted, who doubts but a power never granted by God nor man may? If a Father take a rod to correct the Childe, though it bee ſharpe, the Childe may bear it, but if hee take a ſword to kill the Childe, hee may defend himſelfe, becauſe God hath given no ſuch power to Parents. Who gave this power to our Kings to raiſe an Army againſt the Parlia<g ref="char:EOLhyphen"/>ment, to keep Malefactours from deſerved puniſhments, to arme Papiſts againſt Proteſtants, to bring the barbarous <hi>Iriſh</hi> into this and the Neighbour Kingdomes, to cut our throats? Is this pow<g ref="char:EOLhyphen"/>er of God, or from men? If neither, wee may juſtly reſiſt it, and de<g ref="char:EOLhyphen"/>fend our ſelves, and our lawfull Priviledges.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> Secondly, the practiſe of the Primitive Chriſtians is objected,who have ſignified to the Heathen Emperours,
+<note n="*" place="margin">
+                  <hi>Videantur Tertul. Apolog. c.</hi> 37. <hi>Cyprian, Ep.</hi> 1. <hi>ad Cornel. Roman. &amp; ad Demetr. Ambroſ. in ep. ad Sor. &amp; in Concione ad Pop.</hi>
+               </note> that they had power enough to reſiſt them, but would not doe it. They would rather ſuffer Martyrdome.</p>
+            <pb n="20" facs="tcp:113279:13"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this wee anſwer,that the power of thoſe Emperours ſeemes to have been abſolute, in regard of men, and humane Laws, and not limited, as ours is.</p>
+            <p>Secondly, that when thoſe Chriſtians had gotten <hi>Conſtantine</hi> to aſſiſt them, who had a ſhare in the government, then they fought for their Religion, and Liberties againſt the other Emperours. So may wee having authority from our Parliament, who have a great part in the Government of this Kingdome, by Covenant defend our ſelves againſt the perſonall command of Princes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> The laſt and leaſt Objection,is from the purſe, and from the troubles and charges that this warre hath brought upon us. They have been very great, and greater then before, ſay ſome of the peo<g ref="char:EOLhyphen"/>ple. And theſe are blown up by diſcontented ſpirits to make us leave our ſtation, and break our Covenant. Were it not better to leave all at the mercy of the adverſe party? our charges and loſſes are more then wee indured by Monopolies, and other exactions before.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this it may bee anſwered,that wee ſhould not ſo much look at our troubles and charges, as at the end of them. What do wee fight for? What doe wee pay our money for? Is it not to recover our ſinking liberties? No coſt too great for ſuch a purchaſe. The Phyſitian makes his Patient ſicker before hee cure him, yet the ſick man blames him not. The Lawyer makes his Client ſpend much money, before hee recover his eſtate in controverſie, yet the Client is not offended. Theſe charges are to prevent greater. Mono<g ref="char:EOLhyphen"/>polies might have laſted much longer. Theſe will have their end, if God pleaſe to aſſiſt us, and make us able to make good our Co<g ref="char:EOLhyphen"/>venant.
+<note place="margin">Rab. Aquiba. in Bethneeman.</note> A Jewiſh Writer furniſheth mee with a feigned ſimilitude fit for this purpoſe. The Fox going by the River ſide, eſpies the Fiſhes leaping up above the Water. Heedemands the reaſon. They tell him, there were nets laid in the water to catch them. He bids them come to the ſhore then, where there were no nets. Nay ſay the Fiſhes, if wee cannot live quietly in our own element, how ſhall wee live when wee are out of it? If wee now bee ſcarſe able to ſub<g ref="char:EOLhyphen"/>ſiſt for troubles and charges, while wee ſtand up to defend our Liberties, what ſhall wee doe, when wee have given them all a<g ref="char:EOLhyphen"/>way? Did our Fathers purchaſe them with ſo much charge and blood, that wee ſhould loſe them?</p>
+            <pb n="21" facs="tcp:113279:13"/>
+            <p>To perſwade you further to bee firm in your Covenant, conſi<g ref="char:EOLhyphen"/>der I pray you the ancient form of making Covenants. It is ſaid to bee a cutting of a Covenant.
+<note n="(a)" place="margin">Gen. 15.18</note> 
+               <hi>In that day the Lord
+<note n="*" place="margin">Heb. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Cut.</note> made a covenant with</hi> Abraham. <hi>Abraham</hi> in likelihood not onely
+<note n="(b)" place="margin">Gen. 15.11 12.</note> went, but ſlept between the parts of the birds and beaſts divided. God went between them
+<note n="(c)" place="margin">Gen. 15.17</note> in a ſmoaking furnace, and burning lampe. Wee read
+<note n="(d)" place="margin">Jer 34.18</note> of a Calfe cut in pieces when the people made a Co<g ref="char:EOLhyphen"/>venant with God. And the Chaldee Paraphraſt reads in the Text, <hi>The covenant which thou haſt
+<note n="*" place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> cut with our Fathers.</hi> An alluſion to the cuſtome of making of Covenants then among men. They ſware firſt to keep the Covenant made: Then both parties went between the parts of ſome beaſt divided, as wiſhing, that they which brake the Covenant, might bee ſo divided as that beaſt was. Something like is that in <hi>Livy,</hi>
+               <note n="(e)" place="margin">
+                  <hi>Livius</hi> 1. <hi>Decad. l:</hi> 100.</note> The Prieſt ſtruck down a Hogge with a flint ſtone, ſaying;
+<note n="*" place="margin">Sic feriatur a Jove, qui faedus hoc ſanctum fre<g ref="char:EOLhyphen"/>gerit.</note> 
+               <hi>So let him bee ſmitten down by God, who ſhall break this holy Covenant.</hi> So that by your Covenant yee doe imprecate Gods wrath upon you, if yee break it. But if yee keep it, it will keep you.
+<note n="*" place="margin">
+                  <hi>Plin. l.</hi> 16. <hi>c.</hi> 40. <hi>Cedrus &amp; juniperus, ſi oleo ungas, nec tine<g ref="char:EOLhyphen"/>am ſentiunt, nec cariem.</hi>
+               </note> 
+               <hi>Pliny</hi> reports, that the Cedar, and the Juniper, if yee anoynt them with oyle, ſcape the moth and rottenneſſe. If yee bee anoynted with the oyle of Gods Spirit, and thereby inabled to keep Covenant with God, yee will bee eſta<g ref="char:EOLhyphen"/>bliſhed. I have been the larger in this uſe, that I might ſatisfie mens Conſciences, and raiſe up their ſpirits to obſerve ſo ſolemn a Covenant.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>11</label> Eleventhly, give mee leave I pray you, Honourable, Noble,Wiſe and grave Senatours, to turn my ſpeech to you, and ſuffer the Words of exhortation. Bee carefull, I beſeech you, to keep this Covenant your ſelves.
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Ariſtct. Polit. l.</hi> 5. <hi>c.</hi> 11. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Agapet. Iuſtin.</hi>
+               </note> Set up piety in your own perſons: You are more honoured by God then others, and ſhould bee eminent examples of piety to others. Yee owe more to God then meaner perſons doe. If a Parliament man ſhould bee a drunkard, or a ſwearer, or an adulterer, how much hurt would his example doe? Yee have injoyned this Covenant of perſonall and nationall reformation to others. O let not the people ſay, yee are like the Phariſes,
+<note n="(f)" place="margin">Mat. 23.4.</note> who lay heavy burdens on other mens ſhoulders, but will not touch them with the leaſt of your fingers. I ſpeake
+<pb n="22" facs="tcp:113279:14"/>not this, as if I knew any ſuch among you, but out of my reſpect to your honour, and reputation.
+<note n="*" place="margin">Abundant cau<g ref="char:EOLhyphen"/>tela non nocet. Reg. jur.</note> Much warineſſe doth no harm. Set up piety alſo in your Families. Let Gods name bee daily cal<g ref="char:EOLhyphen"/>led upon in them, let Gods Word bee read there, let your children bee taught the grounds of Religion, that they may bee Gods chil<g ref="char:EOLhyphen"/>dren alſo, and God may give you comfort in them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>12</label> Laſtly,I intreat you to uſe your Authority, that others may keep the Covenant. Yee have injoyned it, and muſt give a ſtrict ac<g ref="char:EOLhyphen"/>count to God one day, if by your neglect it bee violated by others. If people have no care of being forſworn, yee that made them ſwear muſt not ſuffer it. One main part of the Covenant, is to bring the three Kingdomes to one uniforme government agreeable to Gods Word. This principally concerns you that are in authority. This will much further Nationall and perſonall Reformation. Is there not much need of it? Have wee lived to ſee our people full of igno<g ref="char:EOLhyphen"/>rance after long and powerfull Preaching, becauſe the times, as yee know, would not indureſolid Catechizing, and have wee not yet need of a ſetled Church-government? Have wee lived to ſee much prophaneneſſe and drunkenneſſe, and many other enormious vices to abound among the people, notwithſtanding the help of Laws, and Civill Governours, and ſo many ſharpe reprehenſions in the mouths of Gods Miniſters, becauſe the Biſhops would truſt us with no cenſures, but kept all in their own power, and have wee not yet need of a government? Have wee lived to ſee our graveſt, and godlieſt Miniſters, that have been the lights of this Church, ſhi<g ref="char:EOLhyphen"/>ning forth many yeeres in Preaching, Writing, Godly con<g ref="char:EOLhyphen"/>verſation, contemned by the meaneſt of the people, and have wee not yet need of a Government? Have wee lived to ſee our people that yet keep communion with us ſo divided about ſome contro<g ref="char:EOLhyphen"/>verſies in Religion, of which a man may beleeve either way, with<g ref="char:EOLhyphen"/>out danger to his ſoule, that they refuſe the ſociety one of another, and have wee not yet need of a government? Have wee lived to ſee multitudes ſeparate from our Congregations, who in a time of Reformation call them limbs of <hi>Babylon,</hi> wherein in time of de<g ref="char:EOLhyphen"/>formation, they either found or might have found, the wombe of the new birth, and the breaſts of true conſolation, and have wee not yet need of a government? Have wee lived to ſee our deareſt children deprived of their beſt birthright, denyed the ſeales of Gods
+<pb n="23" facs="tcp:113279:14"/>Covenant, and brought below the degree of a Jew, and have wee not yet need of a government? Have wee lived to ſee our duty to God as our Creatour, and ſubjection to his Law, which will binde us in heaven, abrogated on earth, under colour of a new band of Redemption, which frees not from the former, but rather bindes more ſtrongly, and have wee not yet need of a Government? Have wee lived to ſee our Saviour Chriſt ſpoiled of his Deity, who in his humanity ſuffered a cruell, and accurſed death for us, and have wee not yet need of a government? Have wee lived to ſee liberty of all Religions pleaded for in Print, as a priviledge procured by Chriſt, that the Heathen, the Mahometan; the Jew, the Papiſt, might diſhonour Chriſt by authority, and have wee not yet need of a ſetled Church-Government amongſt us? Where are now thoſe golden reines of Diſcipline, which in your publick Declaration, yee ſaid long ſince, yee would not let goe? What oddes between the bit out of the horſes mouth, and the bridle out of the riders hand? Yee ſtand up for Region and Religion. Yee know well that the Kingdome, nor the Armies by ſea or by Land, cannot ſub<g ref="char:EOLhyphen"/>ſiſt without Diſcipline. And can the Church of God ſubſiſt with<g ref="char:EOLhyphen"/>out it? I know yee have had many impediments. The reall ones are in your element, the verball in mine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> It is Objected,that there is no ſuch thing as Church-Govern<g ref="char:EOLhyphen"/>ment; all Government is civill. Your work, who are Gods Mi<g ref="char:EOLhyphen"/>niſters, is to teach the people the wayes of God. If they will not walk in them, you have done your part. The reſt lies upon the Ci<g ref="char:EOLhyphen"/>vill Magiſtrate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> By way of Anſwer, I beſeech you to conſider,what a great bur<g ref="char:EOLhyphen"/>den this opinion layes upon the Civill Magiſtrate, and how much eaſe it affords to us of the Miniſtery. It layes upon you the charge of reforming all things amiſſe in Church and Common<g ref="char:EOLhyphen"/>wealth. It makes you liable to an account at the day of judgement, for all diſorders in both: were it not better to lay part of the bur<g ref="char:EOLhyphen"/>den upon other mens ſhoulders, then to undergoe ſo great a hazard? It brings much eaſe to us. I know not any reaſon why any good Miniſter ſhould ſeek for any further power of government, unleſſe it bee out of Conſcience. For my own part, it is a life I could heartily wiſh for, to bee confined to the Study and the Pulpit, and take no further care of the people, then to make Gods will known
+<pb n="24" facs="tcp:113279:15"/>to them, if any man, when I have done this carefully, could un<g ref="char:EOLhyphen"/>dertake to anſwer for mee, as a Paſtour, at the day of judgement. But will this courſe make our Miniſtery either profitable or com<g ref="char:EOLhyphen"/>fortable? I doubt, wiſe and godly men will think no. This way I beleeve will not hold water. Let us try it a little by thoſe titles that are given Gods Miniſters in Gods Word, and ſee, if they car<g ref="char:EOLhyphen"/>ry no more with them, then the former opinion holds out. Are wee Gods
+<note n="(a)" place="margin">Epheſ. 4.12, 13.</note> builders, to bee imployed till the Church come to perfection; and have wee no more to doe, but to tell the ſtones, where they ſhould lye? Is this building? Are wee Gods
+<note n="(b)" place="margin">1 Cor. 4.1.</note> Ste<g ref="char:EOLhyphen"/>wards, and have wee no more to doe, then to break the bread of life to the houſhold in due ſeaſon? Is there not ſome rule in a Ste<g ref="char:EOLhyphen"/>ward in the Maſters abſence? See <hi>Matth.</hi> 24.45. Stewards have not onely the keyes of the ſtorehouſe, but alſo of the houſe commit<g ref="char:EOLhyphen"/>ted to them. Wee have the key of Baptiſme committed to us to let heathen into the Church of God, if they turn Chriſtians, and have wee not the key of Excommunication to ſhut out Chriſtians, if they turn heathen in their lives and converſations? will our key unlock onely, and not lock the doore? Are wee
+<note n="(c)" place="margin">1 Pet. 5.2.</note> Paſtours, that muſt take the overſight of the flock, as well as feed it, and have wee no Authority over our ſheep at all? Are wee Elders, not always by age, (for ſome eminent Miniſters have been ſo young, that their
+<note n="(d)" place="margin">1 Tim. 4.12</note> youth hath been likely to bee contemned) but in Office, and have wee no Authority? Nay, are wee ruling Elders, and have wee no rule? I never yet read any learned man that interpreted that place, 1 <hi>Tim.</hi> 5.17. of Civill Magiſtrates, or that doubted whe<g ref="char:EOLhyphen"/>ther Miniſters were in the number of the Rulers there mentioned, when the Apoſtle notes them out with a <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, eſpecially they that labour in the Word and Doctrine. Although ſome learned men have doubted, whether any others were included there. Are they
+<note n="(e)" place="margin">Heb. 13.7.</note> which ſpeak the Word of God to us, to have rule over us, and yet no Authority? The Apoſtle requires
+<note n="(f)" place="margin">Heb. 13.17</note> not onely
+<note n="(g)" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> obe<g ref="char:EOLhyphen"/>dience to ſuch in things neceſſary, but alſo
+<note n="(h)" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſubmiſſion in things of indifferency, that they may goe on with comfort in their Mi<g ref="char:EOLhyphen"/>niſtery, and give a cheerfull account at the laſt. And if wee doe it not, hee tells us, it will bee unprofitable for us. Is there any au<g ref="char:EOLhyphen"/>thoritative relation between the Miniſter and the people, by vertue of the fifth Commandement? If there bee, ſure it carries ſome rule
+<pb n="25" facs="tcp:113279:15"/>with it. Is a Miniſter as a Maſter of the family, a Ruler in his own houſe? Then is hee as a Miniſter, a Ruler in Gods houſe. See 1 <hi>Tim.</hi> 3.5. Preſcription of ſixteen hundred yeers will ask much and ſure proofe to void it. A leſſer time hath proved a ſtrong title in our Law. How ordinary were excommunications in the primitive times? How much abuſed? How eaſie had it been for the <hi>Aſian</hi> Bi<g ref="char:EOLhyphen"/>ſhops to have anſwered <hi>Victor,</hi> that there was no ſuch cenſure as excommunication? But this ſtring was not harped upon till of late yeers. This opinion of denying of all Church-Government di<g ref="char:EOLhyphen"/>ſtinct from Civill, as it croſſeth all the Churches of the primitive times, which did exerciſe ſuch a Government among themſelves; ſo it croſſeth all the Proteſtant Churches at this time, both Preſ<g ref="char:EOLhyphen"/>byterian, and Independent. Muſt I then bee a Miniſter, onely to tell the people from God, what they ought to doe, and if they do it not, ſtand aloofe off, and cry God helpe? Muſt I bee forced to receive ſuch as viſible members of my flock, that are not fit to bee of any Chriſtian Congregation? It were better for mee to follow Mans plough then Gods, upon theſe termes. Sure I ſhall never bee able to give that cheerfull account of my Miniſtery fore-mention<g ref="char:EOLhyphen"/>ed out of <hi>Heb.</hi> 3.17.</p>
+            <p>Let no man object to mee the <hi>Sanhedrin,</hi> which was but one Court, and that a Civill one too, or at leaſt had no diſtinction be<g ref="char:EOLhyphen"/>tween Civill, and Eccleſiaſticall power, yet is
+<note n="(a)" place="margin">A brother<g ref="char:EOLhyphen"/>ly examination re-examined, Pag. 16.</note> affirmed for certain to bee the Government of the beſt Reformed Church, that ever was. For ſurely the <hi>Sanhedrin</hi> will bee no fit pattern for Govern<g ref="char:EOLhyphen"/>ment in a Chriſtian ſtate. For,</p>
+            <p>Firſt, it appeares not that they had any Legiſlative power, but onely a power to judge according to Gods judiciall Laws, or at the moſt, but to interpret them in doubtfull things.</p>
+            <p>Secondly, Prieſts and Levites did ordinarily judge in that Court among others.</p>
+            <p>Thirdly, though in <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> money matters others might judge, yet in <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> matters of life and death none might judge but Prieſts and Levites, and thoſe <hi>Iſraelites,</hi> who might give a daughter to a Prieſt in Mariage, which was a priviledge of ſome perſons of great rank, ſpecified in the
+<note n="(b)" place="margin">
+                  <hi>Sanhedr. c.</hi> 4. <hi>ſ.</hi> 2.</note> Talmud.</p>
+            <p>Fourthly, the High-Prieſt might bee, yea, and was ordinari<g ref="char:EOLhyphen"/>ly the ſpeaker, or chiefe Judge in that higheſt Court, as appeares
+<pb n="26" facs="tcp:113279:16"/>in the Scriptures, <hi>Job.</hi> 18.13.19. <hi>Act.</hi> 23.2.4. and out of the Talmud, which teſtifies, that
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Sanhedr. c.</hi> 2. <hi>ſ.</hi> 2.</note> the King never came there to judge, nor to bee judged:
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Sanhe. c.</hi> 2. <hi>ſ.</hi> 1.</note> But the high-Prieſt did both. And who fit<g ref="char:EOLhyphen"/>ter to bee the chiefe in the abſence of the King, then Gods high-Prieſt? I am not ignorant, that they ſpeak of a <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or Prince of the <hi>Sanhedrin,</hi> who they ſay might bee any of the <hi>Sanhedrin,</hi> that was eldeſt, but
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Sanh. c.</hi> 3. <hi>ſ.</hi> 7.</note> the greateſt among the Judges, may bee the great Prieſt ſpoken of before, as well as the eldeſt Judge, as ſome tranſlate it. How ere, it is confeſſed that the high-Prieſt might bee hee. And if there were any other Prince of that Court, it is very likely hee was the high-Prieſts Deputy in his abſence, or one of later ſtampe. This Government might well fit them that were ruled by Gods judiciall Laws, and had one whole Tribe, the Tribe of <hi>Levi,</hi> for the Miniſtery in one Kingdome, and might need the high-Prieſt to aske adviſe of God, ſometimes in an ex<g ref="char:EOLhyphen"/>traordinary way. But this cannot fit Chriſtian Churches, that have more ſtore of people, leſſe of Miniſters ordinarily, and no ſuch extraordinary way to inquire of God. I doe not preſſe this as if I conceived a Miniſter without an Elderſhip, or it without conſent of the Chriſtian Magiſtrate, might ſet up a Government, but I beleeve the Chriſtian Magiſtrate ought to ſee one ſet up.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> But our new Queriſt comes in,and tells us, it is not yet time to build the Houſe of God. Our people are ignorant, and had need of long teaching, before a Government bee ſetled among them. They are doubtfull, and know not to what Government they ought to ſubmit themſelves, and therefore cannot ſubmit to any in Faith. Neither can fit Elders bee found in moſt of the Con<g ref="char:EOLhyphen"/>gregations of this Land.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Had this man lived in the beginning of Queen <hi>Elizabeths</hi> Reign,hee might have proved a ſtrong advocate for Popery, and an oppoſite to Reformation. His Arguments, if they bee of any weight, run all that way. Hee might have told the Queen, that ſhee ought not to make any change in Religion; no not ſo much as to give the poore Proteſtants a toleration of the publick exer<g ref="char:EOLhyphen"/>ciſe of their Religion: Much leſſe to eſtabliſh it by Authority. For her people were very ignorant yet, and had need of many yeers teaching. They knew not which was the true Religion, neither could ſhee finde Preaching Miniſters enough for a quarter of the
+<pb n="27" facs="tcp:113279:16"/>Congregations in the Kingdome. Yet that good Queen of fa<g ref="char:EOLhyphen"/>mous memory, thought it her duty to make that happy change; and wee have cauſe to bleſſe God, that ſhee did it. This Writer takes it for granted, that our Pariſhionall Aſſemblies are no true viſible Churches. Have our worthy <hi>Davids</hi> for above foureſcore yeers defended them to bee ſuch, againſt the <hi>Goliaths</hi> of <hi>Rome,</hi> and our faithfull <hi>Nehemiahs</hi> maintained them for ſuch, againſt the <hi>San<g ref="char:EOLhyphen"/>ballats</hi> of <hi>Amſterdam,</hi> and are they not yet fit for a Government? If our people bee not fit to govern, they had need to bee go<g ref="char:EOLhyphen"/>verned. In <hi>Corinth</hi> were ſome that had not the knowledge of God, others that denyed the Reſurrection, others that made rents, o<g ref="char:EOLhyphen"/>thers guilty of fornication, yet there was a government there. If wee ſtay till all places bee fit for Government in this Authours ſenſe, wee may ſtay till the Church need no government at all. As our Writers tell the Popiſh Commenters on the <hi>Revelation,</hi> (who to avoid the Popes being Antichriſt, and not being able to deny <hi>Rome</hi> to bee <hi>Babylon,</hi> make heathen <hi>Rome</hi> the Beaſt, and An<g ref="char:EOLhyphen"/>tichriſt the Whore that ſhould ride on him, not to come till neer the end of the world) that the horſe is gone long before the rider come: So may wee ſay this Writer builds Caſtles in the aire, and will afford us no Church Rulers till the Church need none. Yet no doubt there are many Congregations in this Kingdome that can afford good Elders to rule, and good people to bee ruled. And the reſt may well bee trained up in knowledge and piety, under a Claſſicall Presbytery, till they bee fit for a Congregationall.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> It is further Objected.There are great contentions about Go<g ref="char:EOLhyphen"/>vernment. The rigid Presbyterians ſay, their particular form of Government, is <hi>Jure, divino,</hi> of Gods inſtitution. The ſtrict In<g ref="char:EOLhyphen"/>dependents ſay as much of theirs. Neither of which appeares to our Governours out of Scripture. Therefore it is ſafeſt to ſet up none till that controverſie bee determined.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> So may weee ſtay long enough for a Government.Suppoſe ſome perſon in the Country wronged in an high nature, ſhould come to the Judge for juſtice, and hee ſhould ſay, I muſt ſtay till I bee re<g ref="char:EOLhyphen"/>ſolved out of Gods word, whether I muſt doe you Juſtice here where you dwell, as <hi>Boaz</hi> had it done in <hi>Bethlehem, Ruth</hi> 4.2. or whether I muſt doe it in the chiefe City of the Kingdome, as the <hi>Sanbedrin</hi> did at <hi>Jeruſalem.</hi> Yee would think this no good Anſwer;
+<pb n="28" facs="tcp:113279:17"/>but rather ſay, God requires Juſtice ſhould bee done. Hee tyes us not to this place or that. Therefore it muſt bee done where it may bee done moſt conveniently. If no <hi>Jus divinum</hi> appeare to you of a particular form of Church Government, yet ſeeing it is cleer out of Scripture that there bee Church Rulers, and Church cenſures, God expects, that you ſhould ſet up ſuch a form, as com<g ref="char:EOLhyphen"/>ming within the generall rules of Scripture, conduceth moſt to the propagation of piety, and conſervation of unity in the Church.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> Laſtly,that it is a very hard thing to finde out what form of Government is beſt to ſettle, and doth moſt conduce to the former ends.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It is not for mee to give direction to ſuch Honourable,wiſe, and worthy Patriots as yee are. Yet if, as a Miniſter of God, I ſhall in a modeſt way diſcover any thing, that may further ſo good a work, I doubt not, but it will bee lovingly received.</p>
+            <p>Firſt, if yee bee not convinced in your Conſciences, of a Divine right for any one particular forme, then the Covenant, and your ſolemne Oath, will goe a great way with you. For yee ſweare to ſettle the Church-Government, according to the rule of Gods Word, and the example of the beſt reformed Churches. Not that wee are the ſervants of other Churches, but to maintaine love among the reformed Churches, wee are wil<g ref="char:EOLhyphen"/>ling to come as neare them as may bee, ſo wee infringe not the priviledges of our owne Kingdome, which may and ought to bee maintained.
+<note n="*" place="margin">
+                  <hi>Viam qui ne<g ref="char:EOLhyphen"/>ſcit qua deveni<g ref="char:EOLhyphen"/>at ad mare, eum oportet amnem quaerere comi<g ref="char:EOLhyphen"/>tem ſibi,</hi> Plaut. Perſ.</note> Hee that knows not the way to the ſea, had need take a River for a companion. It is eaſie to diſcerne which way the Government of other reformed Churches goes. Looke alſo to your owne government in the State, which in ſuch a caſe yee may lawfully doe. Would ye bee content that every Towne ſhould have a court in it ſelf not depending upon any higher court, but for matter of counſell, nor ſubject to any higher ſentence? Why ſhould it bee thought to do well then in the Church? unleſſe God have commanded it; and then indeed all inconveniences muſt lye downe at his feet. Looke upon the courſes ye take in your families. Doe fathers onely give counſell to children and ſervants, and then leave them to themſelves? <hi>Lycurgus,</hi> when one deſired him to ſet up a popular government in the City, bid him
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plutarch.</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> firſt ſet it up in his owne houſe. Laſt of all all I beſeech you like
+<pb n="29" facs="tcp:113279:17"/>skilfull Phyſitians feele the pulſe of the times. Conſider what diſ<g ref="char:EOLhyphen"/>eaſes now reigne in the Church, ignorance, ſchiſme, prophaneneſſe, dangerous errours, and apply ſuch a Government to them, as may ſooneſt cure them.</p>
+            <p>I beſeech you beare with me. I have not ſpoken the words of paſſion and bitterneſſe, but God knows I have ſpoken the words offorrow and heavineſſe occaſioned by our ſad diſtractions for want of a ſetled government in our Church, for which I doubt not but your godly ſoules condole with me. I thinke no Church on earth wants a ſetled Government but ours. Is it not then time to ſpeake?
+<note n="(a)" place="margin">Iſa. 62.1.</note> 
+               <hi>For Sions ſake I cannot hold my peace, and for Jeru<g ref="char:EOLhyphen"/>ſiems ſake I cannot reſt, till the righteouſneſſe thereof goe forth as nightneſſe, and the ſalvation thereof as a lampe that burneth.</hi> I hope no man will bee ſo uncharitable as to conceive that I have ſpoken theſe things to lay the leaſt aſperſion upon the Honourable Houſes of Parliament, to whoſe care, as ſingular Inſtruments bleſſed of God wee owe our preſent helps, and future hopes of reformation.</p>
+            <p>Had not you ſtood up in the gap, our <hi>Bethel</hi> by this time might have been a <hi>Babel,</hi> or
+<note n="(b)" place="margin">Hoſ. 4.15. &amp; 5.8 &amp; 10.5. <hi>
+                     <g ref="char:V">Ʋ</g>id. Chald. Par. Shel. Iar. Dan Qimchi.</hi>
+               </note> 
+               <hi>Bethaven,</hi> our Religion Idolatry, our Li<g ref="char:EOLhyphen"/>berty ſlavery. Wee and our poſterity have cauſe to bleſſe God to the worlds end for raiſing up, and upholding ſuch a Parliament as this, and to ſay:
+<note n="(c)" place="margin">Ruth. 2.12</note> 
+               <hi>The Lord recompenſe your work, and a full reward bee given you of the Lord God of</hi> Iſrael, <hi>under whoſe wings yee are come together <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> truſt.</hi> I know yee may ſay of <hi>England, Scetland,</hi> and <hi>Ireland,</hi> as the Apoſtle ſaid of all the Churches.
+<note n="(d)" place="margin">2 Cor. 11.28, 29.</note> The care of three Kingdomes comes upon you daily. Who is weak, and yee are not weak? who is offended, and yee burn not? It is a greater labour to build up one houſe, then to pull down ten. What is it then to ſettle the Church and Common-wealth in three Kingdoms, that have been many yeers unſetling? I intreat you that yee would take my words only as in<g ref="char:EOLhyphen"/>citations to a quick ſetting up of a needfull government in a dan<g ref="char:EOLhyphen"/>gerous time. Will yee know firſt that <hi>Egypt</hi> is deſtroyed? will ye ſtay till wee have not the face of a Church, before yee give us the govern<g ref="char:EOLhyphen"/>ment of a Church? will yee not apply the remedy, till the diſeaſe bee lacurable? <hi>The God of Heaven, and King of the Church, give you wiſ<g ref="char:EOLhyphen"/>lome and courage in a liberall meaſure, and all good incouragements to make a ſwift progreſſe in ſo glorious a work; and he that honoured you to bee the beginners, make you the finiſhers of an happy Reformation,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
